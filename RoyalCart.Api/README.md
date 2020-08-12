@@ -1,6 +1,6 @@
 # AspNetCoreIdentity
 
-The fallowing is an authentication and user role management implementation for starting projects. Build using the Identity Framework to implement a user's roles and claims membership service and the Entity Framework to implement a object-relational mapping service.
+The following is an authentication and user role management implementation for starting projects. Build using the Identity Framework to implement a user's roles and claims membership service and the Entity Framework to implement a object-relational mapping service.
 
 ## How to run:
 
